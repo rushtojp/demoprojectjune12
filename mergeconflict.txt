@@ -1,1 +1,3 @@
 "update1: update from desktop to file" 
+
+update2 : this is done from github remote repo
